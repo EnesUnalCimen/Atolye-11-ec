@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Enes Ünal Çimen/1.0.0": {
+        "runtime": {
+          "Enes Ünal Çimen.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Enes Ünal Çimen/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

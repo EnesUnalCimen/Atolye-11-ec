@@ -1,0 +1,18 @@
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.csproj.AssemblyReference.cache
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes_Ünal_Çimen.Form1.resources
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.csproj.GenerateResource.cache
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.AssemblyInfoInputs.cache
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.AssemblyInfo.cs
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.csproj.CoreCompileInputs.cache
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\bin\Debug\net6.0-windows\Enes Ünal Çimen.exe
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\bin\Debug\net6.0-windows\Enes Ünal Çimen.deps.json
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\bin\Debug\net6.0-windows\Enes Ünal Çimen.runtimeconfig.json
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\bin\Debug\net6.0-windows\Enes Ünal Çimen.dll
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\bin\Debug\net6.0-windows\Enes Ünal Çimen.pdb
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes_Ünal_Çimen.Properties.Resources.resources
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.dll
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\refint\Enes Ünal Çimen.dll
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.pdb
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\Enes Ünal Çimen.genruntimeconfig.cache
+C:\Users\enesu\OneDrive\Masaüstü\Adam asmaca performans\Enes Ünal Çimen\Enes Ünal Çimen\obj\Debug\net6.0-windows\ref\Enes Ünal Çimen.dll
